@@ -1,0 +1,2 @@
+Study: https://github.com/jhoward/Python-Neural-Network/blob/master/nn.py
+
